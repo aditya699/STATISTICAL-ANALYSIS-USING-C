@@ -1,0 +1,9 @@
+The sum of the two matrices is: 
+2 4 
+6 8 
+The product of the two matrices is: 
+7 10 
+15 22 
+The product of the two matrices is: 
+28 40 
+60 88 
