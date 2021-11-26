@@ -1,0 +1,28 @@
+The mean of the binomial is 1.142000
+The probability of getting a rotten orange is 0.114200
+---------------------------------------------------
+sno | freq |ef
+0 | 334.000000 | 297.410828
+1 | 369.000000 | 383.430969
+2 | 191.000000 | 222.448822
+3 | 63.000000 | 76.476723
+4 | 22.000000 | 17.254314
+5 | 12.000000 | 2.669374
+6 | 9.000000 | 0.286786
+7 | 0.000000 | 0.021128
+8 | 0.000000 | 0.001021
+9 | 0.000000 | 0.000029
+---------------------------------------------------
+After polling:  3
+---------------------------------------------------
+sno | freq |ef
+0 | 334.000000 | 297.410828
+1 | 369.000000 | 383.430969
+2 | 191.000000 | 222.448822
+3 | 63.000000 | 76.476723
+4 | 43.000000 | 20.232653
+---------------------------------------------------
+
+Calculated value of chi sq is 37.4851
+Tabulated value of chi sq for 3 degrees of freedom is 7.1850 at 0.05 level of significance.
+Since calculated value is greater than tabulated value we reject our null hypothesis and Binomial distribution is not a good fit to the given data

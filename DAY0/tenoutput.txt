@@ -1,0 +1,3 @@
+the resultant matrix is
+7524	4982	
+11788	9101	

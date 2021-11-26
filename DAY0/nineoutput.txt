@@ -1,0 +1,3 @@
+the resultant matrix is
+-21	22	
+159	179	

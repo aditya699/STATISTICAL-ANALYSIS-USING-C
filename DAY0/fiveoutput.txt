@@ -1,0 +1,3 @@
+The mean is : 13.757143
+The variance is : 12.158432
+The median is : 6.650000

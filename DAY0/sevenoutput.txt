@@ -1,0 +1,36 @@
+The raw statistics are:
+The value of mean is 14.770000
+The value of variance is 22.181625
+The value of coefficient of variation is 1.501803
+The value of minimum is 8.300000
+The value of maximum is 29.600000
+The value of range is 21.299999
+The value of statistics for grouped data is : 
+The value of mean is 14.538462
+The value of variance is 17.325439
+The value of coefficient of variation is 1.191697
+----------------------------------------
+8	|10	|3
+10	|12	|11
+12	|14	|8
+14	|16	|4
+16	|18	|5
+18	|20	|3
+20	|22	|2
+22	|24	|2
+24	|26	|1
+26	|28	|0
+28	|30	|0
+------------------------------------------
+_________________
+||***
+||***********
+||********
+||****
+||*****
+||***
+||**
+||**
+||*
+||
+||

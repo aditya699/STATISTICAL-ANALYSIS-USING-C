@@ -1,0 +1,4 @@
+29 27 54 
+24 11 170 
+158 52 72 
+The trace of the matrix is : 112
