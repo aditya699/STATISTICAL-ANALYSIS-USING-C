@@ -1,0 +1,26 @@
+the 1 array is 
+12	2	23	
+19	3	9	
+4	5	32	
+
+the 2 array is 
+2	12	23	
+1	13	12	
+13	7	12	
+
+the sum array is 
+14	14	46	
+20	16	21	
+17	12	44	
+
+the product array is 
+325	331	576	
+158	330	581	
+429	337	536	
+
+the value  of special  array is 
+600	476	1606	
+479	423	1333	
+700	520	1698	
+
+the trace of the array is 2721
